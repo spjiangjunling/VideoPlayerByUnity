@@ -1,0 +1,13 @@
+/*
+!*.dll
+!.gitignore
+!DevSpec.txt
+!/ProjectSettings/
+!/Assets/
+!/VRLensBuildConfigs/
+/Assets/Unity-Logs-Viewer/
+/Assets/Unity-Logs-Viewer.meta
+!signapk
+/Assets/Signapk.meta
+/Assets/CommonLib/
+/Assets/CommonLib.meta
