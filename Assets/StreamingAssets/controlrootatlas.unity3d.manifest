@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4210385131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ded7b24201ad4a4e87cf1ac62d32db0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/logo.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/bnt_bj2.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/off.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/resource_selected.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/bnt_bj.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/play.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/restart.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/duankai.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/stop.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/vr.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/play_01.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/home.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/play_02.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/power.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/localPlay.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/dianchi.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/back.png
+- Assets/CCS/BuildResource/PlatformRoot/ControlRoot/ControlRootAtlas/quit.png
+Dependencies: []

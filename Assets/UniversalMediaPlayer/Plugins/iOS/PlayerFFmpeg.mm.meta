@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 74f52fc07403824418615d6036e0737f
+timeCreated: 1556211312
+licenseType: Store
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    data:
+      enabled: 0
+      settings: {}
+    iOS:
+      enabled: 1
+      settings:
+        CompileFlags: -DNATIVE -DFFMPEG
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

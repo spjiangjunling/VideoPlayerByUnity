@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3140320478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d71e6dfdc525d99833a23ab9de842230
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/CCS/BuildResource/CommonSignAtlas/ic_signal_wifi4.png
+- Assets/CCS/BuildResource/CommonSignAtlas/ic_signal_wifi0.png
+- Assets/CCS/BuildResource/CommonSignAtlas/ic_signal_wifi3.png
+- Assets/CCS/BuildResource/CommonSignAtlas/ic_signal_wifi2.png
+- Assets/CCS/BuildResource/CommonSignAtlas/ic_signal_wifi1.png
+Dependencies: []
